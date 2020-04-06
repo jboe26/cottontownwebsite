@@ -1,0 +1,31 @@
+#home {
+    text-align: center;
+}
+
+.order {
+    text-align: right;
+}
+
+.pickup {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 575px;
+    height: 300px;
+    margin-left: 500px;
+    font-weight: bold;
+
+}
+
+#online {
+    background-color: darkred;
+    color: white;
+}
+
+#cart {
+    color: black;
+}
+
+.beerpickup {
+    background-color: gray;
+}
